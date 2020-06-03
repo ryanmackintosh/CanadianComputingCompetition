@@ -45,7 +45,7 @@ int main() {
 }
 
 // Function read_file()
-// Arguments: filename to open, pointer to small, medium and large treat counts
+// Arguments: filename to open
 // Returns 1 if Barley is happy, 0 if Barley is sad
 int read_file(const char* filename) {
 
